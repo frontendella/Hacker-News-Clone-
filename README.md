@@ -6,3 +6,6 @@
 * Routing with multiple pages
 * Breaking app into components
 * Managing state with reducers 
+
+
+Project is made with the help of [Scrimba](https://scrimba.com/allcourses) learning resources
