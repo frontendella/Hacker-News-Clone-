@@ -2,7 +2,7 @@ export default function Story(story) {
     return `
     <div class="story">
         <div>
-            <span class="gray">${story.index}</span>
+            <span class="gray">${story.index || ""}</span>
             <span class="upvote">▲</span>
             <a href=${story.url}">${story.title}</a>
             <span>(${story.domain})</span>
@@ -15,7 +15,7 @@ export default function Story(story) {
             </a>
             | 
             <span class="favorite">
-            <img class="heart" src="../images/icons8-favorite-16.png">
+            <img class="heart" src="../images/favorite.png">
             Add to Favorites
             </span>
         </div>
