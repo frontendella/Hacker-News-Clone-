@@ -7,6 +7,6 @@
 * Breaking app into components
 * Managing state with reducers
 * Deployed with Netlify
-
+     
 
 Project is made with the help of [Scrimba](https://scrimba.com/allcourses) learning resources
