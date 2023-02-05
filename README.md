@@ -1,4 +1,4 @@
-# [Hacker News Clone](https://frontendella-hacker-news-clone.netlify.app) (currently in a progress)
+# [Hacker News Clone](https://frontendella-hacker-news-clone.netlify.app)
 
 * [Real-world app clone](https://news.ycombinator.com/)
 * Build in JavaScript
