@@ -22,7 +22,6 @@ export default async function Stories(path) {
             await Stories(path)
         })
     })
-
 }
 
 async function getStories(path) {
