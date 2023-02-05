@@ -34,5 +34,5 @@ const action = { type: "ADD_FAVORITE", payload: { favorite: { title: "story1", i
 
 const store = createStore(favoritesReducer);
 store.dispatch(action);
-console.log(store.getState());
+// console.log(store.getState());
 export default store;
