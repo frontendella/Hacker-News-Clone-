@@ -8,7 +8,7 @@
 * Managing state with reducers
 * Deployed with Netlify
         
-
+   
 Project is made with the help of [Scrimba](https://scrimba.com/allcourses) learning resources
 
 https://user-images.githubusercontent.com/82247833/216807193-c3d7acd0-e225-4927-8107-43c049f2bbdf.mp4
